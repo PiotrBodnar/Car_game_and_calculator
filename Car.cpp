@@ -1,5 +1,3 @@
-// Adam Geppert, Piotr Bodnar Grupa 7
-
 #include "Car.h"
 #include <string.h>
 #include <cstdlib>
